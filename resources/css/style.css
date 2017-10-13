@@ -25,10 +25,12 @@ h2{
 h3{
   font-size: 21px;
   color: gray;
+  font-weight: normal;
 }
 
 p.copyright{
   font-size: 21px;
   text-align: right;
   color: grey;
+  font-weight: heavy;
 }
